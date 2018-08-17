@@ -13,6 +13,7 @@
 ### 自己整理
 
 ###### [打开全文](https://github.com/jackyliugit/android_classical_summary/blob/master/%E5%85%B8%E8%97%8F%E7%BB%8F%E5%85%B8.md)
+###### [面试技能点精要](https://github.com/yibeiliu/android_classical_summary/blob/master/%E9%9D%A2%E8%AF%95%E7%B2%BE%E8%A6%81.md)
 ##### 以下是帮偷懒的你快速导航（内容和上方是一样的）
 [大牛博客](https://github.com/jackyliugit/android_classical_summary/blob/master/%E5%85%B8%E8%97%8F%E7%BB%8F%E5%85%B8.md#大牛博客)
 
